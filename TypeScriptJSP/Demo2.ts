@@ -1,5 +1,3 @@
-let count: Number = 1;
-
 interface User {
   name: string;
   age: Number;
