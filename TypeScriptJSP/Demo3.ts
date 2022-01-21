@@ -10,3 +10,10 @@ const User: {
   name: "紫罗兰",
   age: 2022,
 };
+
+const Swan: string[] = ["1", "2", "3"];
+
+class Person {}
+const Hong: Person = new Person();
+
+const sleep: () => string = () => "Swan";
